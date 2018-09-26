@@ -1,5 +1,5 @@
 # OddCurrency
-Mod request for OddMC and TokenHeroMC.
+Mod request for OddMC and TokenHeroMC. \n
 Features:
 /oddshop: opens the GUI for players to buy items from the global world shop. 
 /oddshop add/remove <item-ID> : adds or removes an item from the shop
